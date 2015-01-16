@@ -1,0 +1,15 @@
+.alert,.notice {
+  padding: 5px 8px;
+  margin: 10px 0;
+  width: 320px;
+}
+
+.alert,.notice {
+  background-color: #CFC;
+  border: solid 1px #6C6;
+}
+
+.alert,.notice {
+  background-color: #FCC;
+  border: solid 1px #C66;
+}
